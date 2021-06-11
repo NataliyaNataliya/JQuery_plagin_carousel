@@ -40,7 +40,7 @@ The plugin allows you to create a beautiful responsive carousel slider.
 
 ## Документация
 
-Документация, включенная в это репо в корневом каталоге и общедоступна на https://multiply.github.io/Multiply/. Документация также может выполняться локально.
+Документация, включенная в это репо в корневом каталоге и общедоступна на https://github.com/NataliyaNataliya/JQuery_plagin_carousel_TymoshenkoNV. Документация также может выполняться локально.
 
 ## License
 
